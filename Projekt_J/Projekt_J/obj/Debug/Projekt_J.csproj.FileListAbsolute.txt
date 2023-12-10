@@ -1,0 +1,10 @@
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.csproj.AssemblyReference.cache
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.Projekt_Jusytna.resources
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.Properties.Resources.resources
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.csproj.GenerateResource.cache
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.csproj.CoreCompileInputs.cache
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\bin\Debug\Projekt_J.exe.config
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\bin\Debug\Projekt_J.exe
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\bin\Debug\Projekt_J.pdb
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.exe
+C:\Users\kubal\source\repos\Projekt_J\Projekt_J\obj\Debug\Projekt_J.pdb
